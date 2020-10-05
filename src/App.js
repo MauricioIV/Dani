@@ -7,8 +7,7 @@ import User from './User.js';
 
 function App() {
   const user=useUser();
-
-
+ 
   return (
     <div className="App">
        <BarraSuperior></BarraSuperior>
