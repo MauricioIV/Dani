@@ -12,10 +12,7 @@ function App() {
   return (
     <div className="App">
        <BarraSuperior></BarraSuperior>
-       
-       <Auth></Auth>
-
-      
+       <Auth></Auth>   
     </div>
   );
 }
